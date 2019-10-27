@@ -5,6 +5,9 @@ import com.jsoft.leetcode.helper.TestHelper;
 
 import java.util.HashMap;
 
+/**
+ * two sum
+ */
 public class Problem0001 extends BaseProblem {
 
     public int[] twoSum(int[] nums, int target) {

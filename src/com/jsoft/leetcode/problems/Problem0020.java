@@ -7,6 +7,9 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.Stack;
 
+/**
+ * Valid Parentheses
+ */
 public class Problem0020 extends BaseProblem {
 
     public boolean isValid(String s) {

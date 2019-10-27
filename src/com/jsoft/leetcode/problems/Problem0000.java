@@ -6,6 +6,9 @@ import com.jsoft.leetcode.helper.TestHelper;
 import java.util.HashMap;
 import java.util.Map;
 
+/**
+ *
+ */
 public class Problem0000 extends BaseProblem {
 
     @Override
